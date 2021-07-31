@@ -1,0 +1,374 @@
+[
+  {
+    "name": "Category___en",
+    "path": "/Category",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_5e01b1b0"
+  },
+  {
+    "name": "checkout___en",
+    "path": "/checkout",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___en",
+        "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout\\Billing.vue",
+        "_name": "_dbdd90b6"
+      },
+      {
+        "path": "payment",
+        "name": "payment___en",
+        "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout\\Payment.vue",
+        "_name": "_30c089b0"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___en",
+        "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout\\Shipping.vue",
+        "_name": "_20601918"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___en",
+        "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout\\ThankYou.vue",
+        "_name": "_4d4481ca"
+      }
+    ],
+    "_name": "_58acbab4"
+  },
+  {
+    "name": "Checkout___en",
+    "path": "/Checkout",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___en",
+        "path": "Billing",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout\\\\Billing.vue",
+        "chunkName": "pages/Checkout/Billing",
+        "_name": "_41df2c93"
+      },
+      {
+        "name": "Checkout-Payment___en",
+        "path": "Payment",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout\\\\Payment.vue",
+        "chunkName": "pages/Checkout/Payment",
+        "_name": "_3ee302c4"
+      },
+      {
+        "name": "Checkout-Shipping___en",
+        "path": "Shipping",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping",
+        "_name": "_39c09c46"
+      },
+      {
+        "name": "Checkout-ThankYou___en",
+        "path": "ThankYou",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou",
+        "_name": "_234e67ed"
+      }
+    ],
+    "_name": "_c86e4410"
+  },
+  {
+    "name": "ContactUs___en",
+    "path": "/ContactUs",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\ContactUs.vue",
+    "chunkName": "pages/ContactUs",
+    "_name": "_78bdec9c"
+  },
+  {
+    "name": "home___de",
+    "path": "/de",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Home.vue",
+    "_name": "_8ddc0c82"
+  },
+  {
+    "name": "Home___en",
+    "path": "/Home",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_66a7ae11"
+  },
+  {
+    "name": "MyAccount___en",
+    "path": "/MyAccount",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-AdressBook___en",
+        "path": "AdressBook",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\AdressBook.vue",
+        "chunkName": "pages/MyAccount/AdressBook",
+        "_name": "_4b7d173e"
+      },
+      {
+        "name": "MyAccount-BillingDetails___en",
+        "path": "BillingDetails",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails",
+        "_name": "_4e39dc86"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___en",
+        "path": "LoyaltyCard",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard",
+        "_name": "_28254347"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___en",
+        "path": "MyNewsletter",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter",
+        "_name": "_3860fb84"
+      },
+      {
+        "name": "MyAccount-MyProfile___en",
+        "path": "MyProfile",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile",
+        "_name": "_4865ebee"
+      },
+      {
+        "name": "MyAccount-MyReviews___en",
+        "path": "MyReviews",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews",
+        "_name": "_e02e6540"
+      },
+      {
+        "name": "MyAccount-OrderHistory___en",
+        "path": "OrderHistory",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory",
+        "_name": "_13a61ce5"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___en",
+        "path": "ShippingDetails",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails",
+        "_name": "_28dd1c05"
+      }
+    ],
+    "_name": "_186d271f"
+  },
+  {
+    "name": "Product___en",
+    "path": "/Product",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Product.vue",
+    "chunkName": "pages/Product",
+    "_name": "_39e818a6"
+  },
+  {
+    "name": "Category___de",
+    "path": "/de/Category",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Category.vue",
+    "chunkName": "pages/Category",
+    "_name": "_5e01b1b0"
+  },
+  {
+    "name": "checkout___de",
+    "path": "/de/checkout",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout.vue",
+    "children": [
+      {
+        "path": "billing",
+        "name": "billing___de",
+        "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout\\Billing.vue",
+        "_name": "_dbdd90b6"
+      },
+      {
+        "path": "payment",
+        "name": "payment___de",
+        "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout\\Payment.vue",
+        "_name": "_30c089b0"
+      },
+      {
+        "path": "shipping",
+        "name": "shipping___de",
+        "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout\\Shipping.vue",
+        "_name": "_20601918"
+      },
+      {
+        "path": "thank-you",
+        "name": "thank-you___de",
+        "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Checkout\\ThankYou.vue",
+        "_name": "_4d4481ca"
+      }
+    ],
+    "_name": "_58acbab4"
+  },
+  {
+    "name": "Checkout___de",
+    "path": "/de/Checkout",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout.vue",
+    "chunkName": "pages/Checkout",
+    "children": [
+      {
+        "name": "Checkout-Billing___de",
+        "path": "Billing",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout\\\\Billing.vue",
+        "chunkName": "pages/Checkout/Billing",
+        "_name": "_41df2c93"
+      },
+      {
+        "name": "Checkout-Payment___de",
+        "path": "Payment",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout\\\\Payment.vue",
+        "chunkName": "pages/Checkout/Payment",
+        "_name": "_3ee302c4"
+      },
+      {
+        "name": "Checkout-Shipping___de",
+        "path": "Shipping",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout\\\\Shipping.vue",
+        "chunkName": "pages/Checkout/Shipping",
+        "_name": "_39c09c46"
+      },
+      {
+        "name": "Checkout-ThankYou___de",
+        "path": "ThankYou",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Checkout\\\\ThankYou.vue",
+        "chunkName": "pages/Checkout/ThankYou",
+        "_name": "_234e67ed"
+      }
+    ],
+    "_name": "_c86e4410"
+  },
+  {
+    "name": "ContactUs___de",
+    "path": "/de/ContactUs",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\ContactUs.vue",
+    "chunkName": "pages/ContactUs",
+    "_name": "_78bdec9c"
+  },
+  {
+    "name": "Home___de",
+    "path": "/de/Home",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Home.vue",
+    "chunkName": "pages/Home",
+    "_name": "_66a7ae11"
+  },
+  {
+    "name": "MyAccount___de",
+    "path": "/de/MyAccount",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount.vue",
+    "chunkName": "pages/MyAccount",
+    "children": [
+      {
+        "name": "MyAccount-AdressBook___de",
+        "path": "AdressBook",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\AdressBook.vue",
+        "chunkName": "pages/MyAccount/AdressBook",
+        "_name": "_4b7d173e"
+      },
+      {
+        "name": "MyAccount-BillingDetails___de",
+        "path": "BillingDetails",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\BillingDetails.vue",
+        "chunkName": "pages/MyAccount/BillingDetails",
+        "_name": "_4e39dc86"
+      },
+      {
+        "name": "MyAccount-LoyaltyCard___de",
+        "path": "LoyaltyCard",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\LoyaltyCard.vue",
+        "chunkName": "pages/MyAccount/LoyaltyCard",
+        "_name": "_28254347"
+      },
+      {
+        "name": "MyAccount-MyNewsletter___de",
+        "path": "MyNewsletter",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\MyNewsletter.vue",
+        "chunkName": "pages/MyAccount/MyNewsletter",
+        "_name": "_3860fb84"
+      },
+      {
+        "name": "MyAccount-MyProfile___de",
+        "path": "MyProfile",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\MyProfile.vue",
+        "chunkName": "pages/MyAccount/MyProfile",
+        "_name": "_4865ebee"
+      },
+      {
+        "name": "MyAccount-MyReviews___de",
+        "path": "MyReviews",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\MyReviews.vue",
+        "chunkName": "pages/MyAccount/MyReviews",
+        "_name": "_e02e6540"
+      },
+      {
+        "name": "MyAccount-OrderHistory___de",
+        "path": "OrderHistory",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\OrderHistory.vue",
+        "chunkName": "pages/MyAccount/OrderHistory",
+        "_name": "_13a61ce5"
+      },
+      {
+        "name": "MyAccount-ShippingDetails___de",
+        "path": "ShippingDetails",
+        "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\MyAccount\\\\ShippingDetails.vue",
+        "chunkName": "pages/MyAccount/ShippingDetails",
+        "_name": "_28dd1c05"
+      }
+    ],
+    "_name": "_186d271f"
+  },
+  {
+    "name": "Product___de",
+    "path": "/de/Product",
+    "component": "C:\\\\Users\\\\check\\\\Desktop\\\\petProjects\\\\store\\\\store\\\\pages\\\\Product.vue",
+    "chunkName": "pages/Product",
+    "_name": "_39e818a6"
+  },
+  {
+    "name": "my-account___de",
+    "path": "/de/my-account/:pageName?",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\MyAccount.vue",
+    "_name": "_46b60f9e"
+  },
+  {
+    "name": "product___de",
+    "path": "/de/p/:id/:slug",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Product.vue",
+    "_name": "_ba6e3d82"
+  },
+  {
+    "name": "category___de",
+    "path": "/de/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Category.vue",
+    "_name": "_d43b1344"
+  },
+  {
+    "name": "my-account___en",
+    "path": "/my-account/:pageName?",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\MyAccount.vue",
+    "_name": "_46b60f9e"
+  },
+  {
+    "name": "product___en",
+    "path": "/p/:id/:slug",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Product.vue",
+    "_name": "_ba6e3d82"
+  },
+  {
+    "name": "category___en",
+    "path": "/c/:slug_1/:slug_2?/:slug_3?/:slug_4?/:slug_5?",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Category.vue",
+    "_name": "_d43b1344"
+  },
+  {
+    "name": "home___en",
+    "path": "/",
+    "component": "C:\\Users\\check\\Desktop\\petProjects\\store\\store\\pages\\Home.vue",
+    "_name": "_8ddc0c82"
+  }
+]
